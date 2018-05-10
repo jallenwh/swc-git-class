@@ -1,2 +1,4 @@
+#!/bin/bash
 Pluto is still a planet in my universe!
 This is an ex-planet. It would be pushing up daisies if you hadn't nailed it to its perch.
+This is now a bash script
